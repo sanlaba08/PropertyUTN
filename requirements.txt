@@ -1,0 +1,9 @@
+Django==2.2
+Pillow==8.0.0
+pytz==2020.1
+sqlparse==0.4.1
+
+# pip install Pillow
+# pip install django-crispy-forms
+# pip install django-bootstrap4
+# pip install django-bootstrap-datepicker-plus
